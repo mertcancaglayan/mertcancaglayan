@@ -18,11 +18,12 @@ You can find more information and contact me on my LinkedIn profile. I am eagerl
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| **Game-DL** | A Collection of mind games app built with TypeScript. It offers 3 different game. | TypeScript, React | [Demo](https://game-dl.netlify.app) • [Repo](https://github.com/mertcancaglayan/Gamedl) |
 | **Vocab Vault V2** | A MERN stack language learning app with Quiz, Flashcards, and Word Matching game modes | MongoDB, TypeScript, React, Node.js, Express.js | [Demo](https://vocabvault-v2-frontend.onrender.com) • [Repo](https://github.com/mertcancaglayan/VocabVault-V2) |
-| **WebCrate** | Open-source, responsive website templates collection | JavaScript, CSS | [Demo](https://mertcancaglayan.github.io/web-templates/) • [Repo](https://github.com/mertcancaglayan/web-templates) |
 | **UICrate** | Open-source UI components library with live code editor and light/dark mode | JavaScript, CSS | [Demo](https://mertcancaglayan.github.io/uicrate/) • [Repo](https://github.com/mertcancaglayan/uicrate) |
 | **Movie Website** | Angular app for searching movies/TV series with genre filtering and favorites | Angular, JavaScript, CSS | [Demo](https://angular-movie-app-amber.vercel.app) • [Repo](https://github.com/mertcancaglayan/angular-movie-app) |
 | **Angular Bakery** | Modern bakery website with product catalog | Angular, TypeScript, SCSS | [Demo](https://mybakery-angular.netlify.app) • [Repo](https://github.com/mertcancaglayan/Bakery) |
+| **WebCrate** | Open-source, responsive website templates collection | JavaScript, CSS | [Demo](https://mertcancaglayan.github.io/web-templates/) • [Repo](https://github.com/mertcancaglayan/web-templates) |
 | **News Website** | Responsive news platform with keyword search and category browsing | Angular, TypeScript, SCSS | [Repo](https://github.com/mertcancaglayan/angular-newspaper) |
 | **React Movies App** | Movie/TV series app with trailers, favorites, and interactive effects | React, JavaScript, CSS | [Demo](https://moviereactwebsite.netlify.app) • [Repo](https://github.com/mertcancaglayan/react-movie-website) |
 | **React Health Website** | Health and sport-themed landing page | React, JavaScript, CSS | [Demo](https://reacthealthwebsite.netlify.app) • [Repo](https://github.com/mertcancaglayan/react-health-website) |
